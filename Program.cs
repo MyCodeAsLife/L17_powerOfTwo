@@ -28,6 +28,7 @@ namespace L17_powerOfTwo
                 else
                     isOpen = false;
             }
+
             Console.WriteLine($"Исходное число: {targetNumber}.\n{baseNumber} в степени {powerOfNumber} равно {finalNumber}.\n");
         }
     }
