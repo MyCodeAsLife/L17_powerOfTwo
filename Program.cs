@@ -14,7 +14,7 @@ namespace L17_powerOfTwo
             int baseNumber = 2;
             int powerOfNumber = 2;
             int finalNumber = baseNumber;
-            int minRangeValue = 4;
+            int minRangeValue = 2;
             int maxRangeValue = 100;
             int targetNumber = random.Next(minRangeValue, maxRangeValue + 1);
             bool isOpen = true;
