@@ -23,7 +23,7 @@ namespace L17_powerOfTwo
             {
                 finalNumber *= baseNumber;
 
-                if (finalNumber < targetNumber)
+                if (finalNumber <= targetNumber)
                     powerOfNumber++;
                 else
                     isOpen = false;
